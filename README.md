@@ -1,14 +1,3 @@
-Je comprends. Pour éviter les erreurs de formatage en collant plusieurs morceaux, voici **le fichier `README.md` complet et final** en un seul bloc.
-
-**Fais ceci :**
-
-1.  Ouvre ton fichier `README.md`.
-2.  **Efface tout** ce qu'il contient (il doit être vide).
-3.  **Copie et colle** l'intégralité du bloc ci-dessous.
-
------
-
-````markdown
 <div align="center">
 
 # 🇦🇹 🎵 Vienna Vibe
